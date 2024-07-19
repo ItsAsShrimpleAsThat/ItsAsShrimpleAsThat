@@ -7,4 +7,3 @@ Fun facts about me:
 - im ticklish
 - i've been coding for 3 years (remind me to update this in june)
 - C#'s my favorite language
-- <sub>transmaxxing</sub>
